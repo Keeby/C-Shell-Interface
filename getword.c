@@ -1,6 +1,5 @@
 /*
 * Jaspar Deeb
-*
 * Takes input from stdin and inputs it into a array. Returns the length of the first word and the word itself in the driver p0. Ignores leading spaces.
 *
 * Return values:
